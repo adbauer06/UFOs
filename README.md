@@ -28,7 +28,7 @@ There is the ability to filter the table data for those wishing to look at speci
 ![filter_all](https://github.com/adbauer06/UFOs/blob/main/static/images/filter_all.PNG)
 
 3. Clearing all filters results in all of the original data being displayed.
-![filter_none](static/images/filter_none.png)
+![filter_none](https://github.com/adbauer06/UFOs/blob/main/static/images/filter_none.PNG)
 
 
 
