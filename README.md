@@ -25,7 +25,7 @@ There is the ability to filter the table data for those wishing to look at speci
 ![filter_on_date](https://github.com/adbauer06/UFOs/blob/main/static/images/Filter_on_date.PNG)
 
 2. Entering multiple filters will show data that meets all of the filter criteria together.  In this example, there was only one sighting that met all of the entered criteria.
-![filter_all](static/images/filter_all.png)
+![filter_all](https://github.com/adbauer06/UFOs/blob/main/static/images/filter_all.PNG)
 
 3. Clearing all filters results in all of the original data being displayed.
 ![filter_none](static/images/filter_none.png)
